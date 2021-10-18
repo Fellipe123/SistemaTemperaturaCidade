@@ -50,7 +50,7 @@ Top 5 das cidades mais pesquisadas e embaixo será exibido um historico das ulti
    
    * Execute o camando $ npx  knex migrate:latest  para poder criar as tabelas do banco de dados
    
-   * Acesse a pasta 'backend' no caminho 'temperatura\src\backend\', abram o arquivo index.js e atribui o valor da Chave a variavel apiKey para a conexão com api do 
+   * Na pasta 'backend', abra o arquivo index.js e atribui o valor da Chave a variavel apiKey para a conexão com api do 
    openweathermap. 
    
    * Execute o comando $ yarn start para iniciar o servidor
