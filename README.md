@@ -4,7 +4,7 @@
 
 Este Projeto consiste em verificar a temperatura da cidade, sendo divido por dois paineis. O Painel do lado esquerdo
 contêm o campo de texto, um botão para pesquisa e uma tabela, onde será retornado a informação referente a cidade 
-selecionada. No Painel do lado Direito, contêm duas tabela, uma embaixo da outra. Na Tabela de cima vai ser mostrado um
+selecionada. No Painel do lado Direito, contêm duas tabelas, uma embaixo da outra. Na Tabela de cima vai ser mostrado um
 Top 5 das cidades mais pesquisadas e embaixo será exibido um historico das ultimas cidades pesquisadas.
 
 # Layout da Pagina
