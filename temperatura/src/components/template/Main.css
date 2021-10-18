@@ -1,0 +1,59 @@
+#main{
+    margin-bottom: 10%;
+}
+
+#panel {
+    display: flex;
+}
+
+#panel div {
+    width: 50%;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.painel-left {
+    text-align: center;
+    border: 1px black solid;
+}
+
+.painel-right {
+    border: black 1px solid;
+    text-align: center;
+}
+
+#btn-name{
+    size:"40";
+}
+
+table {
+    margin: auto;
+    width: 78%;
+    table-layout: auto;
+    text-align: center;
+}
+
+th, td {
+    padding: 10px;
+    border: solid 1px;
+ }
+  
+
+#table-temp{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 51%;
+}
+
+
+  
+  #table-ranking {
+    table-layout: fixed;
+  }
+
+  #table-ranking td{
+    min-width: 150px;
+}
+  
+  
+
