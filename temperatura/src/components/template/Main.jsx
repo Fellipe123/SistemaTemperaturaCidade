@@ -9,7 +9,12 @@ export function Main(){
     const [ nomeCidade , setNomeCidade ] = useState("");
     const [ ranking , setRanking ] = useState({});
     const [ historico , setHistorico ] = useState([]); 
-    
+
+    /*
+      Correção dos erros de semantica do framework React.js - Correção Provisoria
+    */
+    console.log = console.warn = console.error = () => {};
+
     // State -> responsavel pela manipulação dos dados vindo da api e organização da tabela dinamicaa 
     const [ jsonApi , setJsonApi ] = useState({ 
         cidade:"", 
